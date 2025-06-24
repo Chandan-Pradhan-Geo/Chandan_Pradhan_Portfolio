@@ -1,7 +1,7 @@
 # Chandan Pradhan's Portfolio
 A geologist by profession, coder by passion. Welcome to my interactive personal portfolio site!
 
-🔗 [View Live Portfolio](https://chandan63736.github.io/Chandan_Pradhan/)
+🔗 [View Live Portfolio](https://chandan-pradhan-geo.github.io/Chandan_Pradhan/)
 
 This portfolio showcases my projects, resume, blog, and research highlights — all in a smooth, animated, responsive design. Built using HTML, Tailwind CSS, JavaScript, and features an AI assistant bot named 'Chandan'.
 
