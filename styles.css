@@ -339,7 +339,10 @@ nav {
   text-align: center;
 
 }
-
+.centered-a {
+  display: block;
+  text-align: center;
+}
 
 
 .header__content .section__description {
